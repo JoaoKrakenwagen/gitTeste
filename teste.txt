@@ -1,6 +1,1 @@
-dfkjhsdofnsdkfnsdkcfasifaskofmasdkln
-
-
-dsudhsiujdhdhdh
-
-colocando mais coisa pra divergir da master
+Versão 1.5 do meu software (contém bugs)
